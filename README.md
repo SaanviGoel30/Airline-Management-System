@@ -1,12 +1,12 @@
 ### Airline
 
-Project By Anushka Verma, Ananya Karn, Yash Singhal, Amaan Zaidi
+Project By Saanvi Goel, Garima Kalra
 
 # How to access local host:
 ```bash
 # Clone the repository
-git clone https://github.com/Anushka-V30/Airline.git
-cd Airline
+git clone https://github.com/Garima-Kalra/Airline-.git
+cd Airline-
 
 # Set up django
 pip install django
