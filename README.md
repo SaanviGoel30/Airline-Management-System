@@ -1,6 +1,6 @@
 ### Airline
 
-Project By Saanvi Goel, Garima Kalra
+Project By Saanvi Goel, Garima Kalra, Lavanya Gupta
 
 # How to access local host:
 ```bash
